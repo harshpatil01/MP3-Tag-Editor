@@ -44,12 +44,3 @@ Specify any dependencies required for building and running the project.
 ## Contributing
 
 If you'd like to contribute to the project, please follow the contribution guidelines outlined in CONTRIBUTING.md (if available).
-
-## License
-
-This project is licensed under the [License Name] - see the LICENSE.md file for details.
-```
-
-Replace "License Name" with the actual license you've chosen for your project. Additionally, you can include a LICENSE.md file with the specific license terms.
-
-Feel free to customize this template according to the specifics of your project.
