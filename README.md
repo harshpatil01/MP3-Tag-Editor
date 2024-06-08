@@ -1,6 +1,5 @@
 
 # MP3 Tag Editor
-
 This project is a simple MP3 tag editor implemented in C. It consists of several files that perform different functions related to reading, editing, and managing MP3 file tags.
 
 ## File Structure
